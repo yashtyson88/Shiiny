@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Cliff",
+    "author": "Leio McLaren",
+    "url": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Cliff.jpg",
+    "thumb": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Thumbs/CliffThumb.jpg"
+  },
+  {
+    "name": "Forest",
+    "author": "Samuel Scrimshaw",
+    "url": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Forest.jpg",
+    "thumb": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Thumbs/ForestThumb.jpg"
+  },
+  {
+    "name": "Frozen",
+    "author": "Siyuan",
+    "url": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Frozen.jpg",
+    "thumb": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Thumbs/FrozenThumb.jpg"
+  },
+  {
+    "name": "Iceberg",
+    "author": "Annie Spratt",
+    "url": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Iceberg.jpg",
+    "thumb": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Thumbs/IcebergThumb.jpg"
+  },
+  {
+    "name": "Lunaria",
+    "author": "Laura Adai",
+    "url": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Lunaria.jpg",
+    "thumb": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Thumbs/LunariaThumb.jpg"
+  },
+  {
+    "name": "Magic",
+    "author": "Meric Dagli",
+    "url": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Magic.jpg",
+    "thumb": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Thumbs/MagicThumb.jpg"
+  },
+  {
+    "name": "Mountains",
+    "author": "Lucian Dachman",
+    "url": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Mountains.jpg",
+    "thumb": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Thumbs/MountainsThumb.jpg"
+  },
+  {
+    "name": "Pearl",
+    "author": "Stephen Andrews",
+    "url": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Pearl.jpg",
+    "thumb": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Thumbs/PearlThumb.jpg"
+  },
+  {
+    "name": "Sand",
+    "author": "Pawel Czerwinski",
+    "url": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Sand.jpg",
+    "thumb": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Thumbs/SandThumb.jpg"
+  },
+  {
+    "name": "Starfish",
+    "author": "Taylor Beach",
+    "url": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Starfish.jpg",
+    "thumb": "https://raw.githubusercontent.com/yashtyson88/Shiiny/main/Thumbs/StarfishThumb.jpg"
+  }
+]
